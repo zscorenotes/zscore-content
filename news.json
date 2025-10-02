@@ -1,0 +1,84 @@
+[
+  {
+    "title": "IMPACT at New Opera Days Ostrava",
+    "category": "Performance",
+    "excerpt": "IMPACT premiered at New Opera Days Ostrava, blending operatic voice, orchestral score, and cinematic stunt performance into a visceral 360° experience of vulnerability, embodiment, and intensity.",
+    "tags": [
+      "Announcement",
+      "Performance",
+      "Collaboration",
+      "Ostarava"
+    ],
+    "featured": false,
+    "publication_date": "2024-07-01",
+    "image_urls": [
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758995481186-1s61xmy58xf.png"
+    ],
+    "id": "news_1758994139842_p1uyspe7n",
+    "order": 10,
+    "created_at": "2025-09-27T17:28:59.842Z",
+    "updated_at": "2025-09-28T09:03:00.113Z",
+    "content_file": "/content-data/content/news/news_1758994139842_p1uyspe7n.html"
+  },
+  {
+    "title": "Kriat Shema – World Premiere at Berlin Philharmonie",
+    "category": "Performance",
+    "excerpt": "Kriat Shema fused the ancient voice of the shofar with a full orchestra, transforming ritual into a thrilling, modern symphonic experience. Every score and part crafted by ZSCORE.studio brought Shpilman’s daring vision to life on stage, where past and future collided in unforgettable sound.",
+    "tags": [
+      "Announcement",
+      "Berlin Philharmonie",
+      "Amir Shpilman",
+      "Bar Zamach",
+      "Shofar"
+    ],
+    "featured": false,
+    "publication_date": "2025-04-09",
+    "image_urls": [
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759013879666-8cqehpiz35x.jpg"
+    ],
+    "id": "news_1759011012521_m0mtbpkfr",
+    "order": 20,
+    "created_at": "2025-09-27T22:10:12.521Z",
+    "updated_at": "2025-09-28T07:53:20.610Z",
+    "content_file": "/content-data/content/news/news_1759011012521_m0mtbpkfr.html"
+  },
+  {
+    "title": "The Shofar Sounds Again",
+    "category": "Performance",
+    "excerpt": "Kriat Shema premiered at the Thüringen Philharmonie Gotha-Eisenach during the Achava Festspiele 2025. Bar Zemach’s shofar brought a timeless voice to the orchestra, blending ritual and symphonic color in an unforgettable evening.",
+    "tags": [
+      "Announcement",
+      "Amir Shpilman",
+      "Bar Zamach",
+      "Shofar"
+    ],
+    "featured": false,
+    "publication_date": "2025-09-18",
+    "image_urls": [
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759013176637-ihtzthslyv.webp"
+    ],
+    "id": "news_1759012112692_x4pbuovse",
+    "order": 30,
+    "created_at": "2025-09-27T22:28:32.692Z",
+    "updated_at": "2025-09-28T07:53:34.050Z",
+    "content_file": "/content-data/content/news/news_1759012112692_x4pbuovse.html"
+  },
+  {
+    "title": "Laure M. Hiendl at Donaueschinger Musiktage",
+    "category": "Performance",
+    "excerpt": "Laure M. Hiendl orchestral work at Donaueschinger Musiktage 2025. ",
+    "tags": [
+      "Donaueschinger Musiktage 2025"
+    ],
+    "featured": false,
+    "publication_date": "2025-07-20",
+    "image_urls": [
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759050324166-5dr75wt4yfn.jpg"
+    ],
+    "id": "news_1759046388346_jtdhfht9d",
+    "order": 40,
+    "created_at": "2025-09-28T07:59:48.346Z",
+    "updated_at": "2025-09-28T09:11:49.644Z",
+    "content_file": "/content-data/content/news/news_1759046388346_jtdhfht9d.html"
+  }
+]

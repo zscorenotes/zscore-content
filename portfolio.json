@@ -1,0 +1,90 @@
+[
+  {
+    "title": "IMPACT Opera - Amir Shpilman",
+    "description": "IMPACT premiered on February 18, 2023 at Tanzhalle Berlin, created by choreographer Shiran Eliaserov, composer Amir Shpilman, and dramaturg Louis Geisler.",
+    "technologies": [
+      "Sibelius",
+      "Computer-Assisted Engraving"
+    ],
+    "year": 2025,
+    "category": "project",
+    "client": "Amir Shpilman",
+    "image_urls": [
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759056886361-bije8fqwxf.png",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758993268151-6z67k2dbzq.png",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758993279695-ejgtl67h0sj.png",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758993289412-dz23kr6skch.png",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759052843367-hdop237643u.jpg"
+    ],
+    "content_blocks": [],
+    "id": "portfolio_1758969170697_dygizetib",
+    "order": 10,
+    "created_at": "2025-09-27T10:32:50.697Z",
+    "updated_at": "2025-09-28T10:54:50.808Z",
+    "project_type": [
+      "orchestration",
+      "score_engraving",
+      "parts_engraving",
+      "custom_software"
+    ],
+    "composer": "Amir Shpilman",
+    "instrumentation": "Large Orchestra, Choir, Solo Soprano, 2 Stuntwomen ",
+    "content_file": "/content-data/content/portfolio/portfolio_1758969170697_dygizetib.html"
+  },
+  {
+    "title": "The deepest continuity is paradoxically that which continually restarts and renews itself.",
+    "description": "",
+    "technologies": [
+      "Sibelius"
+    ],
+    "year": 2025,
+    "category": "project",
+    "client": "SWR Symphonieorchester",
+    "image_urls": [
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758993818584-rr0lyfpnl8.jpeg",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758993893211-fde3tj8c9a.jpg",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758993904980-kt604i5dkbj.jpg",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1758993917751-ac7aeh1inle.jpg",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759052767831-r7i7io10fv.jpg"
+    ],
+    "content_blocks": [],
+    "id": "portfolio_1758970238402_gr6lx1qcq",
+    "order": 20,
+    "created_at": "2025-09-27T10:50:38.402Z",
+    "updated_at": "2025-09-28T09:47:05.942Z",
+    "composer": "Laure M. Hiendl",
+    "project_type": [
+      "score_engraving",
+      "parts_engraving",
+      "printing"
+    ],
+    "instrumentation": "Orchestra",
+    "content_file": "/content-data/content/portfolio/portfolio_1758970238402_gr6lx1qcq.html"
+  },
+  {
+    "title": "Kriat Shema",
+    "description": "",
+    "technologies": [],
+    "year": 2025,
+    "category": "project",
+    "client": "Amir Shpilman",
+    "image_urls": [
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759056738987-jnwkku0xs8n.jpg",
+      "https://raw.githubusercontent.com/zscorenotes/zscorenotes.github.io/main/public/images/1759056748638-oljxdjwrn1.jpg"
+    ],
+    "content_blocks": [],
+    "id": "portfolio_1758971769664_etxpyurtg",
+    "order": 30,
+    "created_at": "2025-09-27T11:16:09.664Z",
+    "updated_at": "2025-09-28T10:52:34.958Z",
+    "project_type": [
+      "orchestration",
+      "score_engraving",
+      "parts_engraving",
+      "editorial"
+    ],
+    "instrumentation": "Orchestra, Shofar",
+    "composer": "Amir Shpilman",
+    "content_file": "/content-data/content/portfolio/portfolio_1758971769664_etxpyurtg.html"
+  }
+]
