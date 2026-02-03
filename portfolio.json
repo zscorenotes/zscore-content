@@ -1,7 +1,7 @@
 [
   {
     "title": "IMPACT Opera - Amir Shpilman2",
-    "description": "IMPACT premiered on February 18, 2023 at Tanzhalle Berlin, created by choreographer Shiran Eliaserov, composer Amir Shpilman, and dramaturg Louis Geisler.",
+    "description": "test IMPACT premiered on February 18, 2023 at Tanzhalle Berlin, created by choreographer Shiran Eliaserov, composer Amir Shpilman, and dramaturg Louis Geisler.",
     "technologies": [
       "Sibelius",
       "Computer-Assisted Engraving"
@@ -20,7 +20,7 @@
     "id": "portfolio_1758969170697_dygizetib",
     "order": 10,
     "created_at": "2025-09-27T10:32:50.697Z",
-    "updated_at": "2026-02-03T23:08:41.968Z",
+    "updated_at": "2026-02-03T23:15:17.570Z",
     "project_type": [
       "orchestration",
       "score_engraving",
