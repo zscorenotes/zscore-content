@@ -154,7 +154,7 @@
       "description": "Custom-built software solutions"
     }
   ],
-  "updated_at": "2026-02-04T23:32:39.721Z",
+  "updated_at": "2026-02-04T23:32:53.795Z",
   "news_tags": [
     {
       "id": "announcement",
@@ -219,6 +219,13 @@
       "label": "Opera",
       "displayName": "Opera",
       "color": "gray",
+      "description": "Custom projects category"
+    },
+    {
+      "id": "orchestral",
+      "label": "Orchestral",
+      "displayName": "Orchestral",
+      "color": "emerald",
       "description": "Custom projects category"
     }
   ],
