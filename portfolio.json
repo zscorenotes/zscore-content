@@ -20,7 +20,7 @@
     "id": "portfolio_1758969170697_dygizetib",
     "order": 10,
     "created_at": "2025-09-27T10:32:50.697Z",
-    "updated_at": "2026-02-17T19:36:07.558Z",
+    "updated_at": "2026-02-17T19:36:31.455Z",
     "project_type": [
       "orchestration",
       "score_engraving",
@@ -29,7 +29,8 @@
     ],
     "composer": "Amir Shpilman",
     "instrumentation": "Large Orchestra, Choir, Solo Soprano, 2 Stuntwomen ",
-    "content_file": "https://raw.githubusercontent.com/zscorenotes/zscore-content/main/content/portfolio/portfolio_1758969170697_dygizetib.html"
+    "content_file": "https://raw.githubusercontent.com/zscorenotes/zscore-content/main/content/portfolio/portfolio_1758969170697_dygizetib.html",
+    "content": ""
   },
   {
     "title": "Ensemble Materials",
