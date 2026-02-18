@@ -154,7 +154,7 @@
       "description": "Custom-built software solutions"
     }
   ],
-  "updated_at": "2026-02-05T00:01:10.102Z",
+  "updated_at": "2026-02-18T20:04:34.664Z",
   "news_tags": [
     {
       "id": "announcement",
@@ -240,6 +240,13 @@
       "label": "Ensemble",
       "displayName": "Ensemble",
       "color": "gray",
+      "description": "Custom projects category"
+    },
+    {
+      "id": "solo",
+      "label": "Solo",
+      "displayName": "Solo",
+      "color": "blue",
       "description": "Custom projects category"
     }
   ],
