@@ -62,18 +62,5 @@
       "https://raw.githubusercontent.com/zscorenotes/zscore-content/main/images/1758956467940-bfic17hoywp.png"
     ],
     "content_file": "https://raw.githubusercontent.com/zscorenotes/zscore-content/main/content/services/services_1758956292859_1zvle42de.html"
-  },
-  {
-    "title": "Workflow Automation & Custom Tools",
-    "description": "",
-    "features": [],
-    "category": "AUTOMATIONS",
-    "icon": "",
-    "pricing": "",
-    "id": "services_1758956692570_7sv54ytrx",
-    "order": 70,
-    "created_at": "2025-09-27T07:04:52.570Z",
-    "updated_at": "2025-09-27T07:05:12.207Z",
-    "content_file": "https://raw.githubusercontent.com/zscorenotes/zscore-content/main/content/services/services_1758956692570_7sv54ytrx.html"
   }
 ]
